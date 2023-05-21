@@ -1,0 +1,50 @@
+Highest frequency character (appeared 19 times in the file): e
+Lowest frequency characters (appeared 0 times in the file): d, g, k, m, p, and v
+
+e: 19
+o: 7
+t: 5
+r: 4
+y: 4
+a: 3
+h: 3
+n: 3
+u: 3
+w: 3
+i: 2
+l: 2
+b: 1
+c: 1
+f: 1
+j: 1
+q: 1
+s: 1
+x: 1
+z: 1
+d: 0
+g: 0
+k: 0
+m: 0
+p: 0
+v: 0
+
+19         *                                          
+18         *                                          
+17         *                                          
+16         *                                          
+15         *                                          
+14         *                                          
+13         *                                          
+12         *                                          
+11         *                                          
+10         *                                          
+ 9         *                                          
+ 8         *                                          
+ 7         *                   *                      
+ 6         *                   *                      
+ 5         *                   *         *            
+ 4         *                   *     *   *         *  
+ 3 *       *     *           * *     *   * *   *   *  
+ 2 *       *     * *     *   * *     *   * *   *   *  
+ 1 * * *   * *   * * *   *   * *   * * * * *   * * * *
+   a b c d e f g h i j k l m n o p q r s t u v w x y z

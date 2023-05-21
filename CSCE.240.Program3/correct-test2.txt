@@ -1,0 +1,36 @@
+Highest frequency characters (appeared 5 times in the file): o and y
+Lowest frequency characters (appeared 1 time in the file): c and h
+
+o: 5
+y: 5
+a: 2
+b: 2
+d: 2
+e: 2
+f: 2
+g: 2
+i: 2
+j: 2
+k: 2
+l: 2
+m: 2
+n: 2
+p: 2
+q: 2
+r: 2
+s: 2
+t: 2
+u: 2
+v: 2
+w: 2
+x: 2
+z: 2
+c: 1
+h: 1
+
+5                             *                   *  
+4                             *                   *  
+3                             *                   *  
+2 * *   * * * *   * * * * * * * * * * * * * * * * * *
+1 * * * * * * * * * * * * * * * * * * * * * * * * * *
+  a b c d e f g h i j k l m n o p q r s t u v w x y z
